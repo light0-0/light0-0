@@ -2,6 +2,8 @@
 <h3 align="center">A passionate Full Stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F567523990538356835%2F&psig=AOvVaw0qyhHQCh3qRFosaVYS1Vhn&ust=1673080986953000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCOjRoMvGsvwCFQAAAAAdAAAAABAT">
 
+[![Image of my-profile-views-counter](https://github.com/gayanvoice/my-profile-views-counter/blob/master/svg/207237845/badge.svg)](https://github.com/gayanvoice/my-profile-views-counter/blob/master/readme/207237845/week.md)
+
 - 🌱 I’m currently learning **React Native**
 
 - 💬 Ask me about **Data Structures,FrontEnd, Basic Graphics**
